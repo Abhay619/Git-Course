@@ -1,4 +1,5 @@
 const names = "Aradhna";
+const name2 = "Abhay";
 
 const age = 21;
 
