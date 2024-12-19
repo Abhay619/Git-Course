@@ -1,0 +1,7 @@
+Set the origin repository - git remote set-url origin git@github.com:Abhay619/Git-Course.git
+Check origin Status - git remote -v
+Initial Coe push to Github - git push -u origin main
+Everytime we want the commit to reflect on the remote server (Github) we have to use add command, then Commit command and then git push
+
+SSH Key Generation Command - ssh-keygen
+Add the SSH Public Key to Github Command - cat <Public_Key>
