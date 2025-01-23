@@ -5,3 +5,7 @@ function sayHello () {
 function sayBye() {
     console.log("Bye Everyone");
 }
+
+function NewFeat() {
+    console.log("This feature is added in New-Feature Branch");
+}
