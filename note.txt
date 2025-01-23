@@ -11,3 +11,5 @@ Command to create a new branch - git branch "Branch_Name" or git checkout -b "Br
 Command to show all branches - git branch
 Command to switch branches - git checkout "Branch_Name"
 Command to merge the branch to main - git merge origin/Branch_Name
+
+git pull command also helps in updating local machine with all the commits done on the server, like if we create a pull request and merge a branch on Github, it will not merge in local git, so to merge it we will use git pull command to pull all the updates.
