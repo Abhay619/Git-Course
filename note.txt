@@ -1,7 +1,12 @@
 Set the origin repository - git remote set-url origin git@github.com:Abhay619/Git-Course.git
 Check origin Status - git remote -v
 Initial Coe push to Github - git push -u origin main
-Everytime we want the commit to reflect on the remote server (Github) we have to use add command, then Commit command and then git push
+Everytime we want the commit to reflect on the remote server (Github) we have to use add command, then Commit command and then git push. (git add . -> git commit -m "Message" -> git push)
 
 SSH Key Generation Command - ssh-keygen
 Add the SSH Public Key to Github Command - cat <Public_Key>
+
+Branching: 
+Command to create a new branch - git branch "Branch_Name"
+Command to show all branches - git branch
+Command to switch branches - git checkout "Branch_Name"
