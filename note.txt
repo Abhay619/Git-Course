@@ -10,3 +10,4 @@ Branching:
 Command to create a new branch - git branch "Branch_Name"
 Command to show all branches - git branch
 Command to switch branches - git checkout "Branch_Name"
+Command to merge the branch to main - git merge origin/Branch_Name
