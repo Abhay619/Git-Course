@@ -13,4 +13,5 @@ function isAbove18() {
 
 function isAdhaar() {
     return age >= 18;
+    console.log("Adhar Function");
 }
