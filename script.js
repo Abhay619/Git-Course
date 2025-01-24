@@ -8,4 +8,6 @@ function sayBye() {
 
 function NewFeat() {
     console.log("This feature is added in New-Feature Branch");
+    console.log("Test by Aradhna);
 }
+
